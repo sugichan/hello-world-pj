@@ -1,4 +1,4 @@
 # hello-world-pj
 Hello, world!
 
-edit by sugichan
+edit by sugichan.
